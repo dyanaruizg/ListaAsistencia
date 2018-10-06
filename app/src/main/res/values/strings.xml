@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lista de Asistencia</string>
+    <string name="nombre">Nombre</string>
+    <string name="matricula">Matrícula</string>
+    <string name="title_activity_grupos">Grupos</string>
+    <string name="title_grupo1">Inglés III</string>
+    <string name="title_grupo2">Francés I</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_correo">Agregar Correo</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="ingresar">Ingresar correo electrónico</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
